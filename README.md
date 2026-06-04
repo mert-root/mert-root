@@ -8,11 +8,10 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-- 🔭 **ResimdenMetinOkuyucu**: C# + Tesseract OCR ile resimden metin okuma
-- 🤖 **CppAIAssistant**: C++ + Google Gemini API ile konsol tabanlı AI asistan
+
+- 🔭 C# ile masaüstü tabanlı uygulamalar geliştiriyorum.
 - 🌱 Yapay zeka entegrasyonları ve C++ üzerine çalışıyorum
-- 👨‍💻 Tüm projelerime [GitHub hesabımdan](https://github.com/mert-root) ulaşabilirsin
-- 📫 İletişim: **mertdmrc.is@gmail.com**
+- 👨‍💻 Test projelerime [GitHub hesabımdan](https://github.com/mert-root) ulaşabilirsin
 
 ---
 
