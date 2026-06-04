@@ -58,6 +58,5 @@
 <h2 align="center">📫 İletişim / Contact</h2>
 
 <p align="center">
-  <strong>GitHub:</strong> <a href="https://github.com/mert-root">github.com/mert-root</a><br>
   <strong>E-posta / Email:</strong> mertdmrc.is@gmail.com
 </p>
