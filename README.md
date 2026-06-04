@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋/h1>
+<h1 align="center">Merhaba 👋</h1>
 <h3 align="center">Software Developer | Self-Learning Developer</h3>
 
 <p align="center">
