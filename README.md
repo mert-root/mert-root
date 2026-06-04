@@ -16,20 +16,24 @@
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Projelerim
 
-<br>
+| Proje | Teknoloji | Açıklama |
+|-------|-----------|----------|
+| [ResimdenMetinOkuyucu](https://github.com/mert-root/ResimdenMetinOkuyucu) | C#, Tesseract OCR | Resim yükle, içindeki metni oku |
+| [CppAIAssistant](https://github.com/mert-root/CppAIAssistant) | C++, Gemini API | Konsolda AI ile sohbet et |
 
-[![ResimdenMetinOkuyucu](https://github-readme-stats.vercel.app/api/pin/?username=mert-root&repo=ResimdenMetinOkuyucu&theme=dark)](https://github.com/mert-root/ResimdenMetinOkuyucu)   
-[![CppAIAssistant](https://github-readme-stats.vercel.app/api/pin/?username=mert-root&repo=CppAIAssistant&theme=dark)](https://github.com/mert-root/CppAIAssistant)
+---
 
-<br>
-
-## 📊 GitHub İstatistiklerim
-
-<br>
+## 📸 Proje Görselleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mert-root&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-root&layout=compact&theme=dark" alt="Top Langs" width="48%" />
+  <img src="https://i.imgur.com/CvkGYP5.png" alt="CppAIAssistant Ekran Görüntüsü" width="80%"/>
 </p>
+
+---
+
+## 📫 Bana Ulaş
+
+- **GitHub**: [github.com/mert-root](https://github.com/mert-root)
+- **E-posta**: mertdmrc.is@gmail.com
