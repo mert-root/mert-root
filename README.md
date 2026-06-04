@@ -1,10 +1,4 @@
-<h1 align="center">Merhaba 👋 | Hello 👋</h1>
-
-<p align="center">
-  <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="24"/> &nbsp; <strong>Türkçe</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="24"/> &nbsp; <strong>English</strong>
-</p>
+<h1 align="center">Merhaba 👋, Hello 👋</h1>
 
 <h3 align="center">
   <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="20"/> Yazılım Geliştirici | Otonom Öğrenen
