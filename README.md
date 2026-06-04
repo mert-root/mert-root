@@ -17,4 +17,4 @@
 
 ## 🚀 Öne Çıkan Projeler
 
-[![ResimdenMetinOkuyucu Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbrave-dot&repo=ResimdenMetinOkuyucu&theme=dark)](https://github.com/dbrave-dot/ResimdenMetinOkuyucu)
+[![ResimdenMetinOkuyucu](https://github-readme-stats.vercel.app/api/pin/?username=dbrave-dot&repo=ResimdenMetinOkuyucu&theme=dark)](https://github.com/dbrave-dot/ResimdenMetinOkuyucu)
