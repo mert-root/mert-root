@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋</h1>
+<h3 align="center">Otonom öğrenen bir yazılım geliştiriciyim.</h3>
 
-<!--
-**mert-root/mert-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 C# ile masaüstü tabanlı uygulamalar geliştiriyorum.
+- 🌱 Yapay zeka entegrasyonları ve **C++** üzerine çalışıyorum.
+- 👨‍💻 Tüm projelerime [GitHub hesabımdan](https://github.com/dbrave-dot?tab=repositories) ulaşabilirsiniz.
+- 📫 İletişim için **mertdmrc.is@gmail.com** adresini kullanabilirsin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## 🚀 Öne Çıkan Projeler
+
+[![ResimdenMetinOkuyucu Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbrave-dot&repo=ResimdenMetinOkuyucu&theme=dark)](https://github.com/dbrave-dot/ResimdenMetinOkuyucu)
