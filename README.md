@@ -16,24 +16,14 @@
 
 ---
 
-## 🚀 Projelerim
+## 🚀 Deneme Projeler
 
 | Proje | Teknoloji | Açıklama |
 |-------|-----------|----------|
 | [ResimdenMetinOkuyucu](https://github.com/mert-root/ResimdenMetinOkuyucu) | C#, Tesseract OCR | Resim yükle, içindeki metni oku |
 | [CppAIAssistant](https://github.com/mert-root/CppAIAssistant) | C++, Gemini API | Konsolda AI ile sohbet et |
 
----
-
-## 📸 Proje Görselleri
-
-<p align="center">
-  <img src="https://i.imgur.com/CvkGYP5.png" alt="CppAIAssistant Ekran Görüntüsü" width="80%"/>
-</p>
-
----
-
-## 📫 Bana Ulaş
+## 📫 İletişim
 
 - **GitHub**: [github.com/mert-root](https://github.com/mert-root)
 - **E-posta**: mertdmrc.is@gmail.com
