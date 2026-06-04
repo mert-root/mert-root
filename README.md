@@ -15,6 +15,21 @@
 
 <br />
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Projelerim
 
-v0.1 [![ResimdenMetinOkuyucu](https://github-readme-stats.vercel.app/api/pin/?username=mert-root&repo=ResimdenMetinOkuyucu&theme=dark)](https://github.com/mert-root/ResimdenMetinOkuyucu)
+| Proje | Teknoloji | Açıklama |
+|-------|-----------|----------|
+| [ResimdenMetinOkuyucu](https://github.com/mert-root/ResimdenMetinOkuyucu) | C#, Tesseract OCR | Resim yükle, içindeki metni oku |
+| [CppAIAssistant](https://github.com/mert-root/CppAIAssistant) | C++, Gemini API | Konsolda AI ile sohpet et |
+
+[![ResimdenMetinOkuyucu](https://github-readme-stats.vercel.app/api/pin/?username=mert-root&repo=ResimdenMetinOkuyucu&theme=dark)](https://github.com/mert-root/ResimdenMetinOkuyucu)
+
+[![CppAIAssistant](https://github-readme-stats.vercel.app/api/pin/?username=mert-root&repo=CppAIAssistant&theme=dark)](https://github.com/mert-root/CppAIAssistant)
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mert-root&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mert-root&layout=compact&theme=dark)
