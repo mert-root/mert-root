@@ -48,7 +48,7 @@
     <tr>
       <td><a href="https://github.com/mert-root/CppAIAssistant">CppAIAssistant</a></td>
       <td>C++, Gemini API</td>
-      <td>Konsolda AI ile sohbet et</td>
+      <td>Konsolda AI'yi kullanabilirsiniz.</td>
     </tr>
    </table>
 </p>
