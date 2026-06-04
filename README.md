@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, Ben Mert</h1>
-<h3 align="center">Yazılım Geliştirme Mezunu | Otonom Öğrenen Geliştirici</h3>
+<h1 align="center">Merhaba 👋/h1>
+<h3 align="center">Software Developer | Self-Learning Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
