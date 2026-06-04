@@ -20,13 +20,13 @@
 <p align="center">
   🔭 C# ile masaüstü tabanlı uygulamalar geliştiriyorum.<br>
   🌱 Yapay zeka entegrasyonları ve C++ üzerine çalışıyorum.<br>
-  👨‍💻 Projelerime <a href="https://github.com/mert-root">GitHub hesabımdan</a> ulaşabilirsin.
+  👨‍💻 Test projelerime <a href="https://github.com/mert-root">GitHub hesabımdan</a> ulaşabilirsin.
 </p>
 
 <p align="center">
   🔭 I develop desktop-based applications with C#.<br>
   🌱 I'm working on AI integrations and C++.<br>
-  👨‍💻 You can reach my projects on <a href="https://github.com/mert-root">my GitHub account</a>.
+  👨‍💻 You can reach my test projects on <a href="https://github.com/mert-root">my GitHub account</a>.
 </p>
 
 <br>
