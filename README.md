@@ -17,4 +17,4 @@
 
 ## 🚀 Öne Çıkan Projeler
 
-v0.1 [![ResimdenMetinOkuyucu](https://github-readme-stats.vercel.app/api/pin/?username=mert-root&repo=ResimdenMetinOkuyucu&theme=dark)](https://github.com/mert-root/ResimdenMetinOkuyucu)
+v0.1 [![ResimdenMetinOkuyucu](https://github.com/mert-root/ResimdenMetinOkuyucu)
