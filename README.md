@@ -1,5 +1,17 @@
-<h1 align="center">Merhaba 👋</h1>
-<h3 align="center">Software Developer | Self-Learning Developer</h3>
+<h1 align="center">Merhaba 👋 | Hello 👋</h1>
+
+<p align="center">
+  <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="24"/> &nbsp; <strong>Türkçe</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="24"/> &nbsp; <strong>English</strong>
+</p>
+
+<h3 align="center">
+  <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="20"/> Yazılım Geliştirici | Otonom Öğrenen
+</h3>
+<h3 align="center">
+  <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="20"/> Software Developer | Self-Learning Developer
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -8,39 +20,34 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-<p align="center">
-  🔭 C# ile masaüstü tabanlı uygulamalar geliştiriyorum.<br>
-  🌱 Yapay zeka entegrasyonları ve C++ üzerine çalışıyorum.<br>
-  👨‍💻 Test projelerime <a href="https://github.com/mert-root">GitHub hesabımdan</a> ulaşabilirsin.
-</p>
+---
+
+### <img src="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="20"/> Türkçe
+
+- 🔭 C# ile masaüstü tabanlı uygulamalar geliştiriyorum.
+- 🌱 Yapay zeka entegrasyonları ve C++ üzerine çalışıyorum.
+- 👨‍💻 Projelerime [GitHub hesabımdan](https://github.com/mert-root) ulaşabilirsin.
 
 ---
 
-<h2 align="center">🚀 Deneme Projeler</h2>
+### <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="20"/> English
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <th>Proje</th>
-      <th>Teknoloji</th>
-      <th>Açıklama</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mert-root/ResimdenMetinOkuyucu">ResimdenMetinOkuyucu</a></td>
-      <td>C#, Tesseract OCR</td>
-      <td>Resim yükle, içindeki metni oku</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mert-root/CppAIAssistant">CppAIAssistant</a></td>
-      <td>C++, Gemini API</td>
-      <td>Konsolda AI ile sohbet et</td>
-    </tr>
-  </table>
-</p>
+- 🔭 I develop desktop-based applications with C#.
+- 🌱 I'm working on AI integrations and C++.
+- 👨‍💻 You can reach my projects on [my GitHub account](https://github.com/mert-root).
 
-<h2 align="center">📫 İletişim</h2>
+---
 
-<p align="center">
-  <strong>GitHub:</strong> <a href="https://github.com/mert-root">github.com/mert-root</a><br>
-  <strong>E-posta:</strong> mertdmrc.is@gmail.com
-</p>
+## 🚀 Projeler / Projects
+
+| Proje | Teknoloji | Açıklama |
+|-------|-----------|----------|
+| [ResimdenMetinOkuyucu](https://github.com/mert-root/ResimdenMetinOkuyucu) | C#, Tesseract OCR | Resim yükle, içindeki metni oku |
+| [CppAIAssistant](https://github.com/mert-root/CppAIAssistant) | C++, Gemini API | Konsolda AI ile sohbet et |
+
+---
+
+## 📫 İletişim / Contact
+
+- **GitHub**: [github.com/mert-root](https://github.com/mert-root)
+- **E-posta / Email**: mertdmrc.is@gmail.com
