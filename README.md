@@ -8,21 +8,39 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-
-- 🔭 C# ile masaüstü tabanlı uygulamalar geliştiriyorum.
-- 🌱 Yapay zeka entegrasyonları ve C++ üzerine çalışıyorum
-- 👨‍💻 Test projelerime [GitHub hesabımdan](https://github.com/mert-root) ulaşabilirsin
+<p align="center">
+  🔭 C# ile masaüstü tabanlı uygulamalar geliştiriyorum.<br>
+  🌱 Yapay zeka entegrasyonları ve C++ üzerine çalışıyorum.<br>
+  👨‍💻 Test projelerime <a href="https://github.com/mert-root">GitHub hesabımdan</a> ulaşabilirsin.
+</p>
 
 ---
 
-## 🚀 Deneme Projeler
+<h2 align="center">🚀 Deneme Projeler</h2>
 
-| Proje | Teknoloji | Açıklama |
-|-------|-----------|----------|
-| [ResimdenMetinOkuyucu](https://github.com/mert-root/ResimdenMetinOkuyucu) | C#, Tesseract OCR | Resim yükle, içindeki metni oku |
-| [CppAIAssistant](https://github.com/mert-root/CppAIAssistant) | C++, Gemini API | Konsolda AI ile sohbet et |
+<p align="center">
+  <table align="center">
+    <tr>
+      <th>Proje</th>
+      <th>Teknoloji</th>
+      <th>Açıklama</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mert-root/ResimdenMetinOkuyucu">ResimdenMetinOkuyucu</a></td>
+      <td>C#, Tesseract OCR</td>
+      <td>Resim yükle, içindeki metni oku</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mert-root/CppAIAssistant">CppAIAssistant</a></td>
+      <td>C++, Gemini API</td>
+      <td>Konsolda AI ile sohbet et</td>
+    </tr>
+  </table>
+</p>
 
-## 📫 İletişim
+<h2 align="center">📫 İletişim</h2>
 
-- **GitHub**: [github.com/mert-root](https://github.com/mert-root)
-- **E-posta**: mertdmrc.is@gmail.com
+<p align="center">
+  <strong>GitHub:</strong> <a href="https://github.com/mert-root">github.com/mert-root</a><br>
+  <strong>E-posta:</strong> mertdmrc.is@gmail.com
+</p>
