@@ -50,7 +50,12 @@
       <td>C++, Gemini API</td>
       <td>Konsolda AI'yi kullanabilirsiniz.</td>
     </tr>
-   </table>
+    <tr>
+      <td><a href="https://github.com/mert-root/ls-celik-showroom">LS Çelik Kurumsal Web Sitesi</a></td>
+      <td>HTML, CSS, JavaScript, PHP</td>
+      <td>30 yıllık tecrübeye sahip çelik firması için kurumsal web sitesi. Ağırlık hesaplama aracı, blog, iletişim formu ve çoklu dil desteği.</td>
+    </tr>
+  </table>
 </p>
 
 <br>
