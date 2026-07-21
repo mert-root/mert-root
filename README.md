@@ -41,9 +41,14 @@
       <th>Açıklama</th>
     </tr>
     <tr>
-       <td><a href="https://github.com/mert-root/ls-celik-showroom">LS Çelik Kurumsal Web Sitesi</a></td>
+      <td><a href="https://github.com/mert-root/ls-celik-showroom">LS Çelik Kurumsal Web Sitesi</a></td>
       <td>HTML, CSS, JavaScript, PHP</td>
       <td>30 yıllık tecrübeye sahip çelik firması için kurumsal web sitesi. Ağırlık hesaplama aracı, blog, iletişim formu ve çoklu dil desteği.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mert-root/blanck-stahl-showroom">Blanck Stahl Showroom</a></td>
+      <td>HTML, CSS, JavaScript, PHP</td>
+      <td>Blanck Stahl için showroom web sitesi. Ağırlık hesaplama, teknik rehber, çoklu dil desteği (TR/EN/DE) ve iletişim formu.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/mert-root/CppAIAssistant">CppAIAssistant</a></td>
