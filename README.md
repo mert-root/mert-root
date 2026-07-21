@@ -46,7 +46,7 @@
       <td>30 yıllık tecrübeye sahip çelik firması için kurumsal web sitesi. Ağırlık hesaplama aracı, blog, iletişim formu ve çoklu dil desteği.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mert-root/blanck-stahl-showroom">Blanck Stahl Showroom</a></td>
+      <td><a href="https://github.com/mert-root/blanck-stahl-showroom">Blanck Stahl Kurumsal Web Sitesi</a></td>
       <td>HTML, CSS, JavaScript, PHP</td>
       <td>Blanck Stahl için showroom web sitesi. Genel tanıtım sayfası, iletişim formu vb. & Google tarafındaki tanıtım.</td>
     </tr>
