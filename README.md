@@ -48,7 +48,7 @@
     <tr>
       <td><a href="https://github.com/mert-root/blanck-stahl-showroom">Blanck Stahl Showroom</a></td>
       <td>HTML, CSS, JavaScript, PHP</td>
-      <td>Blanck Stahl için showroom web sitesi. Ağırlık hesaplama, teknik rehber, çoklu dil desteği (TR/EN/DE) ve iletişim formu.</td>
+      <td>Blanck Stahl için showroom web sitesi. Genel tanıtım sayfası, iletişim formu vb. & Google tarafındaki tanıtım.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/mert-root/CppAIAssistant">CppAIAssistant</a></td>
